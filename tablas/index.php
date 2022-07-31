@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <link rel="stylesheet" type="text/css" href="estilo-bd.css">
 <link rel="stylesheet" type="text/css" href="header2.css">
-<script src="./js2/include2.js"></script>
+<script src="../js/include.js"></script>
 <title>Ejemplo de interaccion con DB</title>
 <style type="text/css">
 @import url("css/mycss.css");
@@ -14,7 +14,7 @@
 </head>
 <body>
 
-<div data-include="nav2.html"></div>
+<div data-include="../Subpags/nav.html"></div>
 <div class="todo">
   
   <div id="cabecera">
